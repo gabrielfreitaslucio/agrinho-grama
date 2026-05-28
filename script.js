@@ -1,4 +1,4 @@
-//script.js
+// js/script.js
 document.addEventListener('DOMContentLoaded', () => {
     // Hamburger menu (mobile)
     const hamburger = document.querySelector('.hamburger');
